@@ -1,4 +1,4 @@
-# TechSonIx-FEB25-Tribhuvan-Data-Science
+# TechSonIx-FEB25-Gaikwad-Data-Science
 
 # Machine Learning Model Training and Evaluation
 
